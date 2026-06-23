@@ -1,6 +1,6 @@
 # Data Policy
 
-OpenMonitor Science Kits does not host large raw scientific archives.
+OpenMonitor Science does not host large raw scientific archives.
 
 The repository contains:
 

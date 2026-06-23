@@ -1,11 +1,11 @@
 cff-version: 1.2.0
-title: "OpenMonitor Science Kits"
+title: "OpenMonitor Science"
 message: "If you use these notebooks, readers, or examples, please cite OpenMonitor."
 type: software
 authors:
   - name: "OpenMonitor Team"
 url: "https://openmonitor.org"
-repository-code: "https://github.com/rudimirz/openmonitor-science-kits"
+repository-code: "https://github.com/rudimirz/openmonitor-science"
 license: "MIT"
 keywords:
   - OpenMonitor

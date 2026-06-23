@@ -8,7 +8,7 @@ OpenMonitor.
 Open the notebook in Google Colab:
 
 ```text
-https://colab.research.google.com/github/rudimirz/openmonitor-science-kits/blob/main/kits/solar/aia-roi-lightcurves/notebooks/openmonitor_aia_roi_colab.ipynb
+https://colab.research.google.com/github/rudimirz/openmonitor-science/blob/main/kits/solar/aia-roi-lightcurves/notebooks/openmonitor_aia_roi_colab.ipynb
 ```
 
 Paste an OpenMonitor AIA job id, result id, or share link into the notebook.

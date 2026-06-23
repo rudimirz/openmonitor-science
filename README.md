@@ -1,4 +1,4 @@
-# OpenMonitor Science Kits
+# OpenMonitor Science
 
 Reusable notebooks, readers, and short guides for working with selected
 OpenMonitor exports.
